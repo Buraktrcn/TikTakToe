@@ -7,3 +7,5 @@ Two-Player Mode: A game you can play with your friends or family.
 Passing Time: Ideal for having fun in your free time.
 Strategy Development: Despite its simplicity, it offers a great opportunity to develop strategies.
 
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-05-07 at 13 42 52](https://github.com/Buraktrcn/TikTakToe/assets/112096531/d82c1f94-8f7a-4dbb-a8c1-fa22bd128961)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-05-07 at 13 42 41](https://github.com/Buraktrcn/TikTakToe/assets/112096531/602bf212-31b7-492c-a49e-34a8cfeccb6b)
